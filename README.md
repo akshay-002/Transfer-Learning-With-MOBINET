@@ -1,5 +1,7 @@
 # Transfer-Learning-With-MOBINET 
 
+![Model](images/mobilenetv2.png)
+
 This project demonstrates transfer learning using MobileNetV2 for custom image classification tasks.
 
 ## Setup
